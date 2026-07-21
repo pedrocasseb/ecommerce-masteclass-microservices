@@ -71,11 +71,6 @@ Thumbs.db
 *.jks
 *.keystore
 
-# Docker
-/docker/
-/docker-compose.yml
-/docker-compose.override.yml
-
 # Kubernetes
 /k8s/
 
