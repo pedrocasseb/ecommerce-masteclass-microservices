@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/pedrocasseb/ecommerce-masteclass-microservices/tree/main/additional/config-management/app-configuration
 server:
   port: 8888
