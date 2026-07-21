@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: config-demo
+#  profiles:
+#    active: prod
+
+build:
+  id: ${ID}
+  version: ${VERSION}
+  name: ${NAME}
