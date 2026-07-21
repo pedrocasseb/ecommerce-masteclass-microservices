@@ -1,5 +1,0 @@
-build:
-  id: 3003
-  version: 1.0.0
-  name: "DEV-GIT-Production-Build"
-  type: "GIT Develop Build"

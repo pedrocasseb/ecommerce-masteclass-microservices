@@ -1,5 +1,0 @@
-build:
-  id: 1001
-  version: 1.0.0
-  name: "DEFAULT-GIT-Production-Build"
-  type: "GIT Default Build"

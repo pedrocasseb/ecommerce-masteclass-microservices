@@ -1,5 +1,0 @@
-build:
-  id: 2002
-  version: 1.0.0
-  name: "Prod-GIT-Production-Build"
-  type: "Git Production Build"
